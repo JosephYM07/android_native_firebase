@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610212081103",
+    "project_id": "natfirebase-7eba6",
+    "storage_bucket": "natfirebase-7eba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610212081103:android:725931edfc37ad3177f6ba",
+        "android_client_info": {
+          "package_name": "com.example.uploadphotoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo3QrE3eIdFet5T_tFxGUvFNY7mOFJEqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
